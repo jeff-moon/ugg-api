@@ -1,0 +1,17 @@
+{
+  "name": "u.gg-api",
+  "version": "0.0.1",
+  "description": "u.gg API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "lodash": "^4.17.21",
+    "puppeteer": "^15.3.1"
+  }
+}
