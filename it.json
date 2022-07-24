@@ -1,0 +1,177 @@
+{
+  "summoner": "xiaolinfunk",
+  "region": "na1",
+  "summonerInfo": {
+    "Ranked Solo": {
+      "winrate": "51",
+      "games": "242"
+    },
+    "Ranked Flex": {
+      "winrate": "57",
+      "games": "49"
+    }
+  },
+  "championMastery": {
+    "ranked": {
+      "Pyke": {
+        "winrate": 54,
+        "wins": 46,
+        "losses": 39,
+        "lp": 303
+      },
+      "Morgana": {
+        "winrate": 49,
+        "wins": 29,
+        "losses": 30,
+        "lp": 12
+      },
+      "Nautilus": {
+        "winrate": 44,
+        "wins": 12,
+        "losses": 15,
+        "lp": 28
+      },
+      "Brand": {
+        "winrate": 50,
+        "wins": 11,
+        "losses": 11,
+        "lp": 27
+      },
+      "Blitzcrank": {
+        "winrate": 42,
+        "wins": 8,
+        "losses": 11,
+        "lp": 21
+      },
+      "Thresh": {
+        "winrate": 56,
+        "wins": 5,
+        "losses": 4,
+        "lp": 16
+      },
+      "Alistar": {
+        "winrate": 50,
+        "wins": 2,
+        "losses": 2,
+        "lp": 17
+      },
+      "Braum": {
+        "winrate": 25,
+        "wins": 1,
+        "losses": 3,
+        "lp": -7
+      },
+      "Senna": {
+        "winrate": 50,
+        "wins": 2,
+        "losses": 2,
+        "lp": -6
+      },
+      "Vel'Koz": {
+        "winrate": 67,
+        "wins": 2,
+        "losses": 1,
+        "lp": 15
+      },
+      "Leona": {
+        "winrate": 100,
+        "wins": 2,
+        "losses": 0,
+        "lp": 36
+      },
+      "Nami": {
+        "winrate": 100,
+        "wins": 2,
+        "losses": 0,
+        "lp": 29
+      },
+      "Nasus": {
+        "winrate": 100,
+        "wins": 1,
+        "losses": 0,
+        "lp": 11
+      }
+    },
+    "normal": {},
+    "normal_draft": {
+      "Nautilus": {
+        "winrate": 60,
+        "wins": 6,
+        "losses": 4,
+        "lp": 0
+      },
+      "Pyke": {
+        "winrate": 20,
+        "wins": 2,
+        "losses": 8,
+        "lp": 0
+      },
+      "Morgana": {
+        "winrate": 57,
+        "wins": 4,
+        "losses": 3,
+        "lp": 0
+      },
+      "Brand": {
+        "winrate": 33,
+        "wins": 2,
+        "losses": 4,
+        "lp": 0
+      },
+      "Blitzcrank": {
+        "winrate": 40,
+        "wins": 2,
+        "losses": 3,
+        "lp": 0
+      },
+      "Caitlyn": {
+        "winrate": 20,
+        "wins": 1,
+        "losses": 4,
+        "lp": 0
+      },
+      "Senna": {
+        "winrate": 67,
+        "wins": 2,
+        "losses": 1,
+        "lp": 0
+      },
+      "Braum": {
+        "winrate": 50,
+        "wins": 1,
+        "losses": 1,
+        "lp": 0
+      },
+      "Nami": {
+        "winrate": 50,
+        "wins": 1,
+        "losses": 1,
+        "lp": 0
+      },
+      "Nasus": {
+        "winrate": 50,
+        "wins": 1,
+        "losses": 1,
+        "lp": 0
+      },
+      "Renata Glasc": {
+        "winrate": 50,
+        "wins": 1,
+        "losses": 1,
+        "lp": 0
+      },
+      "Thresh": {
+        "winrate": 50,
+        "wins": 1,
+        "losses": 1,
+        "lp": 0
+      },
+      "Lee Sin": {
+        "winrate": 0,
+        "wins": 0,
+        "losses": 1,
+        "lp": 0
+      }
+    }
+  }
+}
